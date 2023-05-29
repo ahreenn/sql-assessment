@@ -1,1 +1,1 @@
-# sql-assessment
+# Xccelerate SQL Assessment Submission
